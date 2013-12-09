@@ -1,0 +1,20 @@
+#buildingwebapps h2 {
+  cursor: pointer;
+}
+
+#web h2 {
+  position: absolute;
+  bottom: 20%;
+}
+
+#ember-desc h2 {
+  font-size: 100px;
+}
+
+#ember-desc p {
+  text-align: center;
+}
+
+#ember-desc span {
+  font-weight: bold;
+}
